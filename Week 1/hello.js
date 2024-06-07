@@ -1,6 +1,6 @@
 console.log("Hello World");
 
-var test = 4; 
+var test = 3; 
 var k = 0;
 for (var i = 2; i <= parseInt(test/2); i++) {
     if (test % i == 0) {
@@ -17,3 +17,4 @@ if (k === 0) {
     console.log("Your inserted number is a prime number");
     console.log(hello1);
 } 
+
